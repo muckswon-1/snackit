@@ -1,1 +1,1 @@
-# snackit
+# SnackIT
