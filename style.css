@@ -99,8 +99,11 @@ nav ul li a:hover {
      
         display: flex;
 
-        gap: 10px;
-        
+        gap: 10px; 
+    }
+
+    .mobile ul {
+        justify-content: space-evenly;
     }
     
 
